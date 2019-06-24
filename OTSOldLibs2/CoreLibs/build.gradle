@@ -16,7 +16,6 @@ repositories {
     mavenCentral()
 }
 
-apply plugin: 'com.android.library'
 //apply plugin: 'com.jakewharton.butterknife'
 apply plugin: 'me.tatarka.retrolambda'
 
